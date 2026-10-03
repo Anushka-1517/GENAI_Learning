@@ -1,2 +1,7 @@
 langchain
 langchain-google-genai
+dotenv
+langchain-xai
+streamlit
+langchain-ollama
+langchain-groq
